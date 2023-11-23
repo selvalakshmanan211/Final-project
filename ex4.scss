@@ -1,0 +1,16 @@
+$color:red;
+$border:1px solid red;
+$font:50px;
+$width:300px;
+$height:500px;
+
+.box1{
+    border: $border;
+    width: $width;
+    height: $height;
+}
+.box2{
+    border: $border;
+    width: $height;
+    height: $font;
+}

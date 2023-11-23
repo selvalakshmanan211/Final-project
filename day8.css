@@ -1,0 +1,40 @@
+
+.div1{
+    background-color: yellow;
+    border: 2px solid red;
+    width: 50%;
+    height: 10%;
+    margin: 20px;
+}
+.div2{
+    background-color: rgb(23, 209, 39);
+    border: 2px solid red;
+    width: 50%;
+    height: 10%;
+    margin: 20px;
+}
+.div3{
+    background-color: rgb(170, 170, 127);
+    border: 2px solid red;
+    width: 50%;
+    height: 10%;
+    display:inline-block
+
+}
+.div4{
+    background-color: rgb(236, 30, 150);
+    border: 2px solid red;
+    width: 50%;
+    height: 10%;
+    margin: 20px;
+    
+}
+body{
+    width: 100vh;
+    height: 100vh;
+}
+.div5{
+    height: 100%;
+    padding: 20px;
+    
+}
